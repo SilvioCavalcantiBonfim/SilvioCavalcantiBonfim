@@ -2,9 +2,12 @@
 Olá, visitante! Sou Silvio Cavalcanti Bonfim, e estou muito feliz em recebê-lo(a) ao meu perfil do GitHub. Aqui você encontrará uma coleção de projetos, códigos e trabalhos que refletem minha paixão por programação e tecnologia.
 
 ## Sobre Mim
-Sou um entusiasta de tecnologia com uma paixão inabalável pela resolução de problemas e desenvolvimento de software. Desde que descobri o mundo da programação, me apaixonei por sua versatilidade e pelo impacto positivo que pode ter na vida das pessoas. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e sempre busco aprender novas tecnologias e aprimorar minhas habilidades de desenvolvimento utilizando diversas plataformas de estudo.
+Sou um entusiasta de tecnologia com uma paixão inabalável pela resolução de problemas e desenvolvimento de software. Desde que descobri o mundo da programação, me apaixonei por sua versatilidade e pelo impacto positivo que pode ter na vida das pessoas. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e sempre busco aprender novas tecnologias e aprimorar minhas habilidades de desenvolvimento.
 
-### Leetcode
+## Leetcode
+
+Aqui, acompanho meu desempenho, o número total de problemas resolvidos e meu ranking global dentro da plataforma.
+
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=silviocavalcanti2011&theme=dark)
 
 ## Meus Interesses
