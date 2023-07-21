@@ -15,14 +15,8 @@ Meus interesses são amplos e variados no campo da tecnologia. Alguns dos tópic
 - Segurança Cibernética
 - Internet das Coisas (IoT)
 
-## Como Contribuir
-Se você tiver interesse em contribuir para algum dos meus projetos, fique à vontade para enviar "pull requests" com suas melhorias. Adoro aprender com a comunidade e acredito que o compartilhamento de conhecimento é a essência do desenvolvimento tecnológico.
-
 ## Contato
 Se você deseja entrar em contato comigo, sinta-se à vontade para enviar um e-mail para [silviocavalcanti2011@gmail.com](mailto://silviocavalcanti2011@gmail.com) ou me encontrar aqui mesmo no GitHub.
-
-## Agradecimentos
-Quero agradecer a todos os desenvolvedores e membros da comunidade que inspiraram e apoiaram minha jornada de aprendizado. Juntos, estamos construindo um ambiente colaborativo e empolgante para o desenvolvimento de tecnologias inovadoras.
 
 Obrigado por visitar meu perfil! Espero que encontre algo interessante e que possamos trocar ideias e conhecimentos em nossos projetos futuros. Happy coding! 🚀
 
