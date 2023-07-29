@@ -14,15 +14,6 @@ Através do curso, tenho a oportunidade de adquirir conhecimentos sólidos em di
 - Tecnologias Web: Tenho interesse especial no desenvolvimento de aplicações web modernas e interativas.
 - Trabalho em Equipe: Acredito que a colaboração e o compartilhamento de conhecimento são fundamentais para o sucesso de qualquer projeto.
 
-## 🛠 Projetos e Aprendizado
-
-Durante minha jornada acadêmica, tive a oportunidade de trabalhar em projetos desafiadores, que me permitiram aplicar meus conhecimentos teóricos na prática. Criei aplicações web, desenvolvi soluções para problemas reais e trabalhei em equipes multidisciplinares, o que contribuiu significativamente para o meu crescimento profissional.
-
-Estou sempre em busca de novos desafios e projetos empolgantes para expandir meu conhecimento e habilidades. Adoro aprender com a comunidade de desenvolvedores e acredito no poder do compartilhamento de conhecimento para impulsionar o progresso tecnológico.
-
-## 🔖 Objetivos
-Meu objetivo é me formar como um profissional completo e competente em Análise e Desenvolvimento de Sistemas, pronto para enfrentar os desafios da indústria de tecnologia. Busco oportunidades para estagiar e trabalhar em projetos que me permitam aprimorar minhas habilidades e contribuir para o desenvolvimento de soluções inovadoras.
-
 ## 📨 Contato
 Se você quiser entrar em contato comigo para conversar sobre projetos, tecnologia ou apenas compartilhar experiências, sinta-se à vontade para me enviar uma mensagem por e-mail em [silviocavalcanti2011@gmail.com](mailto://silviocavalcanti2011@gmail.com) ou conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/silvio-cavalcanti-bonfim/).
 
